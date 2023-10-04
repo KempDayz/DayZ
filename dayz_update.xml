@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 	<update>
-		<version>1.0</version>
+		<version>1.1</version>
 		<file>UPDATE1.zip</file>		
-		<html>#</html>		
+		<html>https://www.dropbox.com/scl/fi/2afewlna540ol6ws0fa2j/UPDATE1.zip?rlkey=whyif5a29e7s21q6v7of31i1i&dl=1</html>		
 		<command>false</command>
 		<execute>false</execute>
 	</update>
