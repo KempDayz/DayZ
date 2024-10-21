@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 	<update>
-		<version>5.1</version>
+		<version>5.3</version>
 		<file>UPDATE1.zip</file>		
-		<html>https://dzstalker.info/updategame/Update2.zip</html>		
+		<html>https://dzstalker.info/updategame/Update5.zip</html>		
 		<command>false</command>
 		<execute>false</execute>
 	</update>
