@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 	<update>
-		<version>1.29</version>
+		<version>2.0</version>
 		<file>UPDATE1.zip</file>		
-		<html>45.146.81.212/update/Update1.zip</html>		
+		<html>http://45.146.81.212/update/Update1.zip</html>		
 		<command>false</command>
 		<execute>false</execute>
 	</update>
 </root>
+
 
 
