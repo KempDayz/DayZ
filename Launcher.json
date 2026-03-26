@@ -1,10 +1,10 @@
-{   
-	"Version": "1.00",
-	"FileList":"https://kempdayz.github.io/DayZ/filelist.json",
-	"DownloadUpdate": "http://168.194.43.150/ClientGame/",		
-	"News": [
-		"https://kempdayz.github.io/DayZ/News/0.png",
-		"https://kempdayz.github.io/DayZ/News/1.png",
-		"https://kempdayz.github.io/DayZ/News/1.png"
-	]			
-}
+[
+  {
+    "Version": "1.00",
+    "DownloadUpdate": "http://168.194.43.150/ClientGame.zip"
+  },
+  {
+    "Version": "1.01",
+    "DownloadUpdate": "http://168.194.43.150/ClientGame2.zip"
+  }
+]
